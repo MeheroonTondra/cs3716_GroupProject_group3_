@@ -1,0 +1,20 @@
+﻿Prioritized features :
+Feature 1 : create a schedule based on the principal’s specification
+Feature 2 : take space requests based on user’s specifications and relating them to the available
+schedule
+Feature 3 : allow the principal to approve requests and resolve scheduling conflicts
+Feature 4 : Detect scheduling conflict and inform the principal of these conflicts
+Feature 5: allow the principal to edit or delete existing schedule or request
+Feature 6: allow the user to edit or delete user request
+Feature 7 : log in functionality to allow the system to detect users and the principal
+
+we’ll be trying to implement the 1st feature since it is essential to the system and most other features need a schedule to be implemented.
+
+
+Feature completion list for Feature 2:
+
+the user can select their name to associate with the request
+the request interface should reflect what the principal specified
+the user should be able to select any of the available time slots and it
+
+
